@@ -1,4 +1,7 @@
 # Ignore tfvars
 terraform.tfvars
 
+.terraform
+
+.terraform.lock.hcl
 
