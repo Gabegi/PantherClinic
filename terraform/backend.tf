@@ -5,6 +5,6 @@ terraform {
         container_name       = "backendtf"
         key                  = "terraform.tfstate"
 
-        access_key           = "W1QTt8vj0wa5y3frHgges3I8CTd8GZ+NB7XnfkfY8oVofnfHNnAZwxPXUY6NoXTMN1nmd/IC1SwUp9zFa8gzrQ==" // var.access_key
+        access_key           = "string" // var.access_key
     }
 }
